@@ -1,0 +1,8 @@
+{
+  "name": "Tu Impulso Fitness Marín",
+  "description": "A high-performance, 24/7 fitness center web application featuring personalized nutrition, elite equipment, and an AI-powered fitness assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
